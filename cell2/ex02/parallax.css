@@ -1,0 +1,59 @@
+  .parallax {
+    background-image: url("https://wallpaperaccess.com/full/3518791.jpg");
+    min-height: 500px; 
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 1000px;
+    font-size: large;
+    color: crimson;
+    height:1000px;
+    text-align: center;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+
+  }
+  .texto1 {
+      font-size: large;
+      color: crimson;
+      height:1000px;
+      text-align: center;
+      position: relative;
+      justify-content: center;
+      align-items: center;
+      display: flex;
+  }
+
+  .info {
+      height:750px;
+      background-color:black;
+      font-size:12px;
+      color:blanchedalmond;
+      text-align: center;
+      position: relative;
+      justify-content: center;
+      align-items: center;
+      display: flex;
+  }
+
+
+  .second {
+    background-image: url("https://wallpaperaccess.com/full/6614952.jpg");
+    min-height: 500px; 
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-size: large;
+    color: crimson;
+    height:1000px;
+    text-align: center;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+
+  }
